@@ -1,2 +1,2 @@
-# yashuababraham.github.io
+# yashuab.github.io
 main-page
